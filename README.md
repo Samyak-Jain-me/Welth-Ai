@@ -15,6 +15,9 @@ A full-stack platform to track income, expenses, and budgets across multi-accoun
 - Delivered **personalized, AI-generated financial insights** and reports via email.  
 - Implemented **secure authentication** and **bot protection** with Clerk and Arcjet Shield.  
 - Designed a fully **responsive, modern UI** using Shadcn UI and deployed on Vercel.
+  
+---
+<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
 
 ---
 
